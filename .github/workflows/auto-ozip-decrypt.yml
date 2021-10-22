@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://otaafsg-cost.realmemobile.com/RMX1921/RMX1921EX_11.F.01_10100270_202106090048/patch/amazone2/GLO/RMX1921EX/RMX1921EX_11.F.01_10100270_202106090048/RMX1921EX_11_OTA_10100270_all_ZKZJb0lzvEYD_941be944c248.ozip #edit link here...
   FIRMWARE_NAME: RMX1921EX_11_OTA_10100270_all_ZKZJb0lzvEYD_941be944c248.ozip  #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: RMX1921EX_11_OTA_10100270_all_ZKZJb0lzvEYD_941be944c248.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: rui2.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
